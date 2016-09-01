@@ -3,8 +3,6 @@ package com.jpdelacroix.sphero;
 // Copyright (C) 2014, Jean-Pierre de la Croix
 // see the LICENSE file included with this software
 
-import java.util.ArrayList;
-
 import com.jpdelacroix.sphero.util.RunnableLauncher;
 
 public class SpheroNexus {
